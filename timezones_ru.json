@@ -1,0 +1,2212 @@
+[
+  {
+    "utc_ru": [],
+    "abbr": "DST",
+    "text": "(UTC-12:00) International Date Line West",
+    "isdst": false,
+    "offset": -12,
+    "value": "Dateline Standard Time",
+    "utc": [
+      "Etc/GMT+12"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Паго Паго, Соединенные Штаты Америки (США)",
+      "Алофи, остров Ниуе"
+    ],
+    "abbr": "U",
+    "text": "(UTC-11:00) Coordinated Universal Time-11",
+    "isdst": false,
+    "offset": -11,
+    "value": "UTC-11",
+    "utc": [
+      "Etc/GMT+11",
+      "Pacific/Midway",
+      "Pacific/Niue",
+      "Pacific/Pago_Pago"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Папеэте, Французская Полинезия",
+      "Гонолулу, Соединенные Штаты Америки (США)",
+      "Раротонга, Острова Куку"
+    ],
+    "abbr": "HST",
+    "text": "(UTC-10:00) Hawaii",
+    "isdst": false,
+    "offset": -10,
+    "value": "Hawaiian Standard Time",
+    "utc": [
+      "Etc/GMT+10",
+      "Pacific/Honolulu",
+      "Pacific/Johnston",
+      "Pacific/Rarotonga",
+      "Pacific/Tahiti"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Анкоридж, Соединенные Штаты Америки (США)",
+      "Джуно, Соединенные Штаты Америки (США)",
+      "Фэрбенкс, Соединенные Штаты Америки (США)",
+      "Ном, Соединенные Штаты Америки (США)"
+    ],
+    "abbr": "AKDT",
+    "text": "(UTC-09:00) Alaska",
+    "isdst": true,
+    "offset": -8,
+    "value": "Alaskan Standard Time",
+    "utc": [
+      "America/Anchorage",
+      "America/Juneau",
+      "America/Nome",
+      "America/Sitka",
+      "America/Yakutat"
+    ]
+  },
+  {
+    "utc_ru": [],
+    "abbr": "PDT",
+    "text": "(UTC-08:00) Baja California",
+    "isdst": true,
+    "offset": -7,
+    "value": "Pacific Standard Time (Mexico)",
+    "utc": [
+      "America/Santa_Isabel"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Портленд, Соединенные Штаты Америки (США)",
+      "Анахейм, Соединенные Штаты Америки (США)",
+      "Риверсайд, Соединенные Штаты Америки (США)",
+      "Сакраменто, Соединенные Штаты Америки (США)",
+      "Салем, Соединенные Штаты Америки (США)",
+      "Сан-Диего, Соединенные Штаты Америки (США)",
+      "Сан Франциско, Соединенные Штаты Америки (США)",
+      "Сан-Хосе (Калифорния), Соединенные Штаты Америки (США)",
+      "Лас-Вегас, Соединенные Штаты Америки (США)",
+      "Сиэтл, Соединенные Штаты Америки (США)",
+      "Лонг Бич, Соединенные Штаты Америки (США)",
+      "Лос-Анджелес, Соединенные Штаты Америки (США)",
+      "Карсон-Сити, Соединенные Штаты Америки (США)",
+      "Стокон, Соединенные Штаты Америки (США)",
+      "Сюррей, Канада",
+      "Тихуана, Мексика",
+      "Мехикали, Мексика",
+      "Ванкувер, Канада",
+      "Виктория (Канада), Канада",
+      "Уайтхорс, Канада",
+      "Окленд, Соединенные Штаты Америки (США)"
+    ],
+    "abbr": "PDT",
+    "text": "(UTC-07:00) Pacific Time (US & Canada)",
+    "isdst": true,
+    "offset": -7,
+    "value": "Pacific Daylight Time",
+    "utc": [
+      "America/Dawson",
+      "America/Los_Angeles",
+      "America/Tijuana",
+      "America/Vancouver",
+      "America/Whitehorse"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Портленд, Соединенные Штаты Америки (США)",
+      "Анахейм, Соединенные Штаты Америки (США)",
+      "Риверсайд, Соединенные Штаты Америки (США)",
+      "Сакраменто, Соединенные Штаты Америки (США)",
+      "Салем, Соединенные Штаты Америки (США)",
+      "Сан-Диего, Соединенные Штаты Америки (США)",
+      "Сан Франциско, Соединенные Штаты Америки (США)",
+      "Сан-Хосе (Калифорния), Соединенные Штаты Америки (США)",
+      "Лас-Вегас, Соединенные Штаты Америки (США)",
+      "Сиэтл, Соединенные Штаты Америки (США)",
+      "Лонг Бич, Соединенные Штаты Америки (США)",
+      "Лос-Анджелес, Соединенные Штаты Америки (США)",
+      "Карсон-Сити, Соединенные Штаты Америки (США)",
+      "Стокон, Соединенные Штаты Америки (США)",
+      "Сюррей, Канада",
+      "Тихуана, Мексика",
+      "Мехикали, Мексика",
+      "Ванкувер, Канада",
+      "Виктория (Канада), Канада",
+      "Уайтхорс, Канада",
+      "Окленд, Соединенные Штаты Америки (США)"
+    ],
+    "abbr": "PST",
+    "text": "(UTC-08:00) Pacific Time (US & Canada)",
+    "isdst": false,
+    "offset": -8,
+    "value": "Pacific Standard Time",
+    "utc": [
+      "America/Dawson",
+      "America/Los_Angeles",
+      "America/Tijuana",
+      "America/Vancouver",
+      "America/Whitehorse",
+      "PST8PDT"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Феникс, Соединенные Штаты Америки (США)",
+      "Меса, Соединенные Штаты Америки (США)",
+      "Туксон, Соединенные Штаты Америки (США)"
+    ],
+    "abbr": "UMST",
+    "text": "(UTC-07:00) Arizona",
+    "isdst": false,
+    "offset": -7,
+    "value": "US Mountain Standard Time",
+    "utc": [
+      "America/Creston",
+      "America/Dawson_Creek",
+      "America/Hermosillo",
+      "America/Phoenix",
+      "Etc/GMT+7"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Чиуауа, Мексика",
+      "Мацатлан, Мексика"
+    ],
+    "abbr": "MDT",
+    "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+    "isdst": true,
+    "offset": -6,
+    "value": "Mountain Standard Time (Mexico)",
+    "utc": [
+      "America/Chihuahua",
+      "America/Mazatlan"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Хелена, Соединенные Штаты Америки (США)",
+      "Аклавик, Канада",
+      "Альбукерке, Соединенные Штаты Америки (США)",
+      "Аврора, Соединенные Штаты Америки (США)",
+      "Солт-Лейк-Сити, Соединенные Штаты Америки (США)",
+      "Биллингс, Соединенные Штаты Америки (США)",
+      "Бойсе, Соединенные Штаты Америки (США)",
+      "Санта-Фе, Соединенные Штаты Америки (США)",
+      "Калгари, Канада",
+      "Шайенн, Соединенные Штаты Америки (США)",
+      "Денвер, Соединенные Штаты Америки (США)",
+      "Эдмонтон, Канада",
+      "Эль Пасо, Соединенные Штаты Америки (США)",
+      "Йеллоунайф, Канада"
+    ],
+    "abbr": "MDT",
+    "text": "(UTC-07:00) Mountain Time (US & Canada)",
+    "isdst": true,
+    "offset": -6,
+    "value": "Mountain Standard Time",
+    "utc": [
+      "America/Boise",
+      "America/Cambridge_Bay",
+      "America/Denver",
+      "America/Edmonton",
+      "America/Inuvik",
+      "America/Ojinaga",
+      "America/Yellowknife",
+      "MST7MDT"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Бельмопан, Белиз",
+      "Сан-Хосе (Коста-Рика), Коста-Рика",
+      "Сан Сальвадор, Сальвадор",
+      "Санта Анна, Сальвадор",
+      "Манагуа, Никарагуа",
+      "Тегусигальпа, Гондурас",
+      "Галапагосские острова, Еквадор",
+      "Гватемала, Гватемала"
+    ],
+    "abbr": "CAST",
+    "text": "(UTC-06:00) Central America",
+    "isdst": false,
+    "offset": -6,
+    "value": "Central America Standard Time",
+    "utc": [
+      "America/Belize",
+      "America/Costa_Rica",
+      "America/El_Salvador",
+      "America/Guatemala",
+      "America/Managua",
+      "America/Tegucigalpa",
+      "Etc/GMT+6",
+      "Pacific/Galapagos"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Пенсакола, Соединенные Штаты Америки (США)",
+      "Хьюстон, Соединенные Штаты Америки (США)",
+      "Пирр, Соединенные Штаты Америки (США)",
+      "Джексон, Соединенные Штаты Америки (США)",
+      "Джефферсон-Сити, Соединенные Штаты Америки (США)",
+      "Арлингтон, Соединенные Штаты Америки (США)",
+      "Канзас, Соединенные Штаты Америки (США)",
+      "Остин, Соединенные Штаты Америки (США)",
+      "Батон-Руж, Соединенные Штаты Америки (США)",
+      "Сан Антонио, Соединенные Штаты Америки (США)",
+      "Бирмингем  (USA), Соединенные Штаты Америки (США)",
+      "Бисмарк, Соединенные Штаты Америки (США)",
+      "Линкольн, Соединенные Штаты Америки (США)",
+      "Литл-Рок, Соединенные Штаты Америки (США)",
+      "Су-Фолс, Соединенные Штаты Америки (США)",
+      "Сент-Луис, Соединенные Штаты Америки (США)",
+      "Сен-Поль, Соединенные Штаты Америки (США)",
+      "Мэдисон, Соединенные Штаты Америки (США)",
+      "Чикаго, Соединенные Штаты Америки (США)",
+      "Даллас, Соединенные Штаты Америки (США)",
+      "Мемфис, Соединенные Штаты Америки (США)",
+      "Де-Мойн, Соединенные Штаты Америки (США)",
+      "Топека, Соединенные Штаты Америки (США)",
+      "Милуоки, Соединенные Штаты Америки (США)",
+      "Миннеаполис, Соединенные Штаты Америки (США)",
+      "Мобил, Соединенные Штаты Америки (США)",
+      "Монтгомери, Соединенные Штаты Америки (США)",
+      "Форт-Уэрт, Соединенные Штаты Америки (США)",
+      "Нэшвилл, Соединенные Штаты Америки (США)",
+      "Новый Орлеан, Соединенные Штаты Америки (США)",
+      "Уичита, Соединенные Штаты Америки (США)",
+      "Виннипег, Канада",
+      "Оклахома Сити, Соединенные Штаты Америки (США)"
+    ],
+    "abbr": "CDT",
+    "text": "(UTC-06:00) Central Time (US & Canada)",
+    "isdst": true,
+    "offset": -5,
+    "value": "Central Standard Time",
+    "utc": [
+      "America/Chicago",
+      "America/Indiana/Knox",
+      "America/Indiana/Tell_City",
+      "America/Matamoros",
+      "America/Menominee",
+      "America/North_Dakota/Beulah",
+      "America/North_Dakota/Center",
+      "America/North_Dakota/New_Salem",
+      "America/Rainy_River",
+      "America/Rankin_Inlet",
+      "America/Resolute",
+      "America/Winnipeg",
+      "CST6CDT"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Акапулько, Мексика",
+      "Агуаскальентес, Мексика",
+      "Сан-Луис-Потоси, Мексика",
+      "Леон, Мексика",
+      "Канкун, Мексика",
+      "Мерида, Мексика",
+      "Мехико, Мексика",
+      "Монтеррей, Мексика",
+      "Веракруз, Мексика",
+      "Гвадалахара, Мексика"
+    ],
+    "abbr": "CDT",
+    "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
+    "isdst": true,
+    "offset": -5,
+    "value": "Central Standard Time (Mexico)",
+    "utc": [
+      "America/Bahia_Banderas",
+      "America/Cancun",
+      "America/Merida",
+      "America/Mexico_City",
+      "America/Monterrey"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Регина, Канада"
+    ],
+    "abbr": "CCST",
+    "text": "(UTC-06:00) Saskatchewan",
+    "isdst": false,
+    "offset": -6,
+    "value": "Canada Central Standard Time",
+    "utc": [
+      "America/Regina",
+      "America/Swift_Current"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Панама, Панама",
+      "Кито, Еквадор",
+      "Риу-Бранку, Бразилия",
+      "Кингстон (Jm), Ямайка",
+      "Богота, Колумбия",
+      "Лима, Перу",
+      "Кали, Колумбия",
+      "Меделин, Колумбия",
+      "Джорджтаун (KY), Кайманские острова",
+      "Гуаякиль, Еквадор"
+    ],
+    "abbr": "SPST",
+    "text": "(UTC-05:00) Bogota, Lima, Quito",
+    "isdst": false,
+    "offset": -5,
+    "value": "SA Pacific Standard Time",
+    "utc": [
+      "America/Bogota",
+      "America/Cayman",
+      "America/Coral_Harbour",
+      "America/Eirunepe",
+      "America/Guayaquil",
+      "America/Jamaica",
+      "America/Lima",
+      "America/Panama",
+      "America/Rio_Branco",
+      "Etc/GMT+5"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Гаррисберг, Соединенные Штаты Америки (США)",
+      "Хартфорд, Соединенные Штаты Америки (США)",
+      "Гавана, Куба",
+      "Филадельфия, Соединенные Штаты Америки (США)",
+      "Акрон, Соединенные Штаты Америки (США)",
+      "Олбани, Соединенные Штаты Америки (США)",
+      "Питсбург, Соединенные Штаты Америки (США)",
+      "Икалуит, Канада",
+      "Порт-о-Пренс, Гаити",
+      "Джексонвиль, Соединенные Штаты Америки (США)",
+      "Джерси-Сити, Соединенные Штаты Америки (США)",
+      "Провиденс, Соединенные Штаты Америки (США)",
+      "Квебек, Канада",
+      "Атланта, Соединенные Штаты Америки (США)",
+      "Августа, Соединенные Штаты Америки (США)",
+      "Рали, Соединенные Штаты Америки (США)",
+      "Ричмонд, Соединенные Штаты Америки (США)",
+      "Балтимор, Соединенные Штаты Америки (США)",
+      "Рочестер, Соединенные Штаты Америки (США)",
+      "Ноксвиль, Соединенные Штаты Америки (США)",
+      "Бостон, Соединенные Штаты Америки (США)",
+      "Лексингтон, Соединенные Штаты Америки (США)",
+      "Буфало, Соединенные Штаты Америки (США)",
+      "Сент-Питерсберг (Флорида), Соединенные Штаты Америки (США)",
+      "Чарлстон, Соединенные Штаты Америки (США)",
+      "Шарлот, Соединенные Штаты Америки (США)",
+      "Цинциннати, Соединенные Штаты Америки (США)",
+      "Тампа, Соединенные Штаты Америки (США)",
+      "Кливленд, Соединенные Штаты Америки (США)",
+      "Коламбия, Соединенные Штаты Америки (США)",
+      "Коламбус, Соединенные Штаты Америки (США)",
+      "Конкорд, Соединенные Штаты Америки (США)",
+      "Майами, Соединенные Штаты Америки (США)",
+      "Толедо, Соединенные Штаты Америки (США)",
+      "Детройт, Соединенные Штаты Америки (США)",
+      "Торонто, Канада",
+      "Трентон, Соединенные Штаты Америки (США)",
+      "Довер, Соединенные Штаты Америки (США)",
+      "Монпелье, Соединенные Штаты Америки (США)",
+      "Монреаль, Канада",
+      "Франкфорт (США), Соединенные Штаты Америки (США)",
+      "Нассау, Багамские острова",
+      "Вирджиния Бич, Соединенные Штаты Америки (США)",
+      "Нью-Йорк, Соединенные Штаты Америки (США)",
+      "Ньюарк, Соединенные Штаты Америки (США)",
+      "Вашингтон, Соединенные Штаты Америки (США)",
+      "Остров Норфолк, Соединенные Штаты Америки (США)",
+      "Оттава, Канада",
+      "Вест Палм Бич, Соединенные Штаты Америки (США)"
+    ],
+    "abbr": "EDT",
+    "text": "(UTC-05:00) Eastern Time (US & Canada)",
+    "isdst": true,
+    "offset": -4,
+    "value": "Eastern Standard Time",
+    "utc": [
+      "America/Detroit",
+      "America/Havana",
+      "America/Indiana/Petersburg",
+      "America/Indiana/Vincennes",
+      "America/Indiana/Winamac",
+      "America/Iqaluit",
+      "America/Kentucky/Monticello",
+      "America/Louisville",
+      "America/Montreal",
+      "America/Nassau",
+      "America/New_York",
+      "America/Nipigon",
+      "America/Pangnirtung",
+      "America/Port-au-Prince",
+      "America/Thunder_Bay",
+      "America/Toronto",
+      "EST5EDT"
+    ]
+  },
+  {
+    "utc_ru": [],
+    "abbr": "UEDT",
+    "text": "(UTC-05:00) Indiana (East)",
+    "isdst": true,
+    "offset": -4,
+    "value": "US Eastern Standard Time",
+    "utc": [
+      "America/Indiana/Marengo",
+      "America/Indiana/Vevay",
+      "America/Indianapolis"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Каракас, Венесуэла"
+    ],
+    "abbr": "VST",
+    "text": "(UTC-04:30) Caracas",
+    "isdst": false,
+    "offset": -4.5,
+    "value": "Venezuela Standard Time",
+    "utc": [
+      "America/Caracas"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Асунсьон, Парагвай"
+    ],
+    "abbr": "PYT",
+    "text": "(UTC-04:00) Asuncion",
+    "isdst": false,
+    "offset": -4,
+    "value": "Paraguay Standard Time",
+    "utc": [
+      "America/Asuncion"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Сент-Джонс (CA - NB), Канада",
+      "Чарлеттаун, Канада",
+      "Галифакс, Канада",
+      "Гамильтон, Бермудские острова"
+    ],
+    "abbr": "ADT",
+    "text": "(UTC-04:00) Atlantic Time (Canada)",
+    "isdst": true,
+    "offset": -3,
+    "value": "Atlantic Standard Time",
+    "utc": [
+      "America/Glace_Bay",
+      "America/Goose_Bay",
+      "America/Halifax",
+      "America/Moncton",
+      "America/Thule",
+      "Atlantic/Bermuda"
+    ]
+  },
+  {
+    "utc_ru": [],
+    "abbr": "CBST",
+    "text": "(UTC-04:00) Cuiaba",
+    "isdst": false,
+    "offset": -4,
+    "value": "Central Brazilian Standard Time",
+    "utc": [
+      "America/Campo_Grande",
+      "America/Cuiaba"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Плимут, Монтсеррат",
+      "Порт-оф-Спейн, Тринидад и Тобаго",
+      "Род-Таун, Британские Виргинские острова",
+      "Кингстаун, Сент-Винсент и Гренадины",
+      "Розо, Доминика",
+      "Бас-Тер, Гваделупа",
+      "Бастер, Сент-Китс и Невис",
+      "Сент-Джорджес, Гренада",
+      "Сент-Джонс (Антигуа), Антигуа и Барбуда",
+      "Ла Пас, Боливия",
+      "Сан Хуан, Пуэрто-Рико",
+      "Бриджтаун, Барбадос",
+      "Санто Доминго, Доминиканская Республика",
+      "Кастри, Сент-Люсия",
+      "Манаус, Бразилия",
+      "Вэлли, Ангилья",
+      "Фор-де-Франс, Мартиника",
+      "Виллемстад, Нидерландские Антильские острова",
+      "Джорджтаун (GY), Гаяна",
+      "Ораньєстад, Аруба"
+    ],
+    "abbr": "SWST",
+    "text": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+    "isdst": false,
+    "offset": -4,
+    "value": "SA Western Standard Time",
+    "utc": [
+      "America/Anguilla",
+      "America/Antigua",
+      "America/Aruba",
+      "America/Barbados",
+      "America/Blanc-Sablon",
+      "America/Boa_Vista",
+      "America/Curacao",
+      "America/Dominica",
+      "America/Grand_Turk",
+      "America/Grenada",
+      "America/Guadeloupe",
+      "America/Guyana",
+      "America/Kralendijk",
+      "America/La_Paz",
+      "America/Lower_Princes",
+      "America/Manaus",
+      "America/Marigot",
+      "America/Martinique",
+      "America/Montserrat",
+      "America/Port_of_Spain",
+      "America/Porto_Velho",
+      "America/Puerto_Rico",
+      "America/Santo_Domingo",
+      "America/St_Barthelemy",
+      "America/St_Kitts",
+      "America/St_Lucia",
+      "America/St_Thomas",
+      "America/St_Vincent",
+      "America/Tortola",
+      "Etc/GMT+4"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Сантьяго, Чили"
+    ],
+    "abbr": "PSST",
+    "text": "(UTC-04:00) Santiago",
+    "isdst": false,
+    "offset": -4,
+    "value": "Pacific SA Standard Time",
+    "utc": [
+      "America/Santiago",
+      "Antarctica/Palmer"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Сент Джон (CA - NF), Канада"
+    ],
+    "abbr": "NDT",
+    "text": "(UTC-03:30) Newfoundland",
+    "isdst": true,
+    "offset": -2.5,
+    "value": "Newfoundland Standard Time",
+    "utc": [
+      "America/St_Johns"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Порту-Алегри, Бразилия",
+      "Рио-де-Жанейро, Бразилия",
+      "Бразилиа, Бразилия",
+      "Сан Пауло, Бразилия"
+    ],
+    "abbr": "ESAST",
+    "text": "(UTC-03:00) Brasilia",
+    "isdst": false,
+    "offset": -3,
+    "value": "E. South America Standard Time",
+    "utc": [
+      "America/Sao_Paulo"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Сальта, Аргентина",
+      "Тукуман, Аргентина"
+    ],
+    "abbr": "AST",
+    "text": "(UTC-03:00) Buenos Aires",
+    "isdst": false,
+    "offset": -3,
+    "value": "Argentina Standard Time",
+    "utc": [
+      "America/Argentina/La_Rioja",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Salta",
+      "America/Argentina/San_Juan",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Ushuaia",
+      "America/Buenos_Aires",
+      "America/Catamarca",
+      "America/Cordoba",
+      "America/Jujuy",
+      "America/Mendoza"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Парамарибо, Суринам",
+      "Ресифе, Бразилия",
+      "Кайенна, Французская Гвиана",
+      "Стенли, Фолклендские острова"
+    ],
+    "abbr": "SEST",
+    "text": "(UTC-03:00) Cayenne, Fortaleza",
+    "isdst": false,
+    "offset": -3,
+    "value": "SA Eastern Standard Time",
+    "utc": [
+      "America/Araguaina",
+      "America/Belem",
+      "America/Cayenne",
+      "America/Fortaleza",
+      "America/Maceio",
+      "America/Paramaribo",
+      "America/Recife",
+      "America/Santarem",
+      "Antarctica/Rothera",
+      "Atlantic/Stanley",
+      "Etc/GMT+3"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Нуук, Дания"
+    ],
+    "abbr": "GDT",
+    "text": "(UTC-03:00) Greenland",
+    "isdst": true,
+    "offset": -3,
+    "value": "Greenland Standard Time",
+    "utc": [
+      "America/Godthab"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Монтевидео, Уругвай"
+    ],
+    "abbr": "MST",
+    "text": "(UTC-03:00) Montevideo",
+    "isdst": false,
+    "offset": -3,
+    "value": "Montevideo Standard Time",
+    "utc": [
+      "America/Montevideo"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Сальвадор, Бразилия"
+    ],
+    "abbr": "BST",
+    "text": "(UTC-03:00) Salvador",
+    "isdst": false,
+    "offset": -3,
+    "value": "Bahia Standard Time",
+    "utc": [
+      "America/Bahia"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Фернанду-ди-Норонья, Бразилия"
+    ],
+    "abbr": "U",
+    "text": "(UTC-02:00) Coordinated Universal Time-02",
+    "isdst": false,
+    "offset": -2,
+    "value": "UTC-02",
+    "utc": [
+      "America/Noronha",
+      "Atlantic/South_Georgia",
+      "Etc/GMT+2"
+    ]
+  },
+  {
+    "utc_ru": [],
+    "abbr": "MDT",
+    "text": "(UTC-02:00) Mid-Atlantic - Old",
+    "isdst": true,
+    "offset": -1,
+    "value": "Mid-Atlantic Standard Time",
+    "utc": []
+  },
+  {
+    "utc_ru": [
+      "Азоры, Порутугалия"
+    ],
+    "abbr": "ADT",
+    "text": "(UTC-01:00) Azores",
+    "isdst": true,
+    "offset": 0,
+    "value": "Azores Standard Time",
+    "utc": [
+      "America/Scoresbysund",
+      "Atlantic/Azores"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Прая, Кабо-Верде"
+    ],
+    "abbr": "CVST",
+    "text": "(UTC-01:00) Cape Verde Is.",
+    "isdst": false,
+    "offset": -1,
+    "value": "Cape Verde Standard Time",
+    "utc": [
+      "Atlantic/Cape_Verde",
+      "Etc/GMT+1"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Рабат, Марокко",
+      "Касабланка, Марокко",
+      "Танжер, Марокко",
+      "Эль-Аюн, Западная Сахара"
+    ],
+    "abbr": "MDT",
+    "text": "(UTC) Casablanca",
+    "isdst": true,
+    "offset": 1,
+    "value": "Morocco Standard Time",
+    "utc": [
+      "Africa/Casablanca",
+      "Africa/El_Aaiun"
+    ]
+  },
+  {
+    "utc_ru": [],
+    "abbr": "UTC",
+    "text": "(UTC) Coordinated Universal Time",
+    "isdst": false,
+    "offset": 0,
+    "value": "UTC",
+    "utc": [
+      "America/Danmarkshavn",
+      "Etc/GMT"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Белфаст, Великобритания",
+      "Бирмингем (UK), Великобритания",
+      "Ливерпуль, Великобритания",
+      "Лондон, Великобритания",
+      "Кардифф, Великобритания",
+      "Эдинбург, Великобритания",
+      "Глазго, Великобритания"
+    ],
+    "abbr": "GMT",
+    "text": "(UTC) Edinburgh, London",
+    "isdst": false,
+    "offset": 0,
+    "value": "Greenwich Mean Time",
+    "utc": [
+      "Europe/Isle_of_Man",
+      "Europe/Guernsey",
+      "Europe/Jersey",
+      "Europe/London"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Белфаст, Великобритания",
+      "Бирмингем (UK), Великобритания",
+      "Ливерпуль, Великобритания",
+      "Лондон, Великобритания",
+      "Кардифф, Великобритания",
+      "Эдинбург, Великобритания",
+      "Глазго, Великобритания"
+    ],
+    "abbr": "BST",
+    "text": "(UTC+01:00) Edinburgh, London",
+    "isdst": true,
+    "offset": 1,
+    "value": "British Summer Time",
+    "utc": [
+      "Europe/Isle_of_Man",
+      "Europe/Guernsey",
+      "Europe/Jersey",
+      "Europe/London"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Порту, Порутугалия",
+      "Лас-Пальмас-де-Гран-Канария, Испания",
+      "Лиссабон, Порутугалия",
+      "Дублин, Ирландия",
+      "Фуншал, Порутугалия"
+    ],
+    "abbr": "GDT",
+    "text": "(UTC) Dublin, Lisbon",
+    "isdst": true,
+    "offset": 1,
+    "value": "GMT Standard Time",
+    "utc": [
+      "Atlantic/Canary",
+      "Atlantic/Faeroe",
+      "Atlantic/Madeira",
+      "Europe/Dublin",
+      "Europe/Lisbon"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Абиджан, Кот д’Ивуар",
+      "Уагадугу, Буркина-Фасо",
+      "Аккра, Гана",
+      "Рейкьявик, Исландия",
+      "Бамако, Мали",
+      "Банжул, Гамбия",
+      "Бисау, Гвиея Биссау",
+      "Сан-Томе, Сан-Томе и Принсипи",
+      "Ломе, Того",
+      "Конакри, Гвинея",
+      "Дакар, Сенегал",
+      "Монровия, Либерия",
+      "Фритаун, Сьерра-Леоне",
+      "Нуакшот, Мавритания",
+      "Ямусукро, Кот д’Ивуар"
+    ],
+    "abbr": "GST",
+    "text": "(UTC) Monrovia, Reykjavik",
+    "isdst": false,
+    "offset": 0,
+    "value": "Greenwich Standard Time",
+    "utc": [
+      "Africa/Abidjan",
+      "Africa/Accra",
+      "Africa/Bamako",
+      "Africa/Banjul",
+      "Africa/Bissau",
+      "Africa/Conakry",
+      "Africa/Dakar",
+      "Africa/Freetown",
+      "Africa/Lome",
+      "Africa/Monrovia",
+      "Africa/Nouakchott",
+      "Africa/Ouagadougou",
+      "Africa/Sao_Tome",
+      "Atlantic/Reykjavik",
+      "Atlantic/St_Helena"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Амстердам, Нидерланды",
+      "Андорра-ла-Вьеха, Андорра",
+      "Рим, Италия",
+      "Роттердам, Нидерланды",
+      "Берлин, Германия",
+      "Берн, Швейцария",
+      "Зальцбург, Австрия",
+      "Сан-Марино, Сан-Марино",
+      "Лозанна, Швейцария",
+      "Люксембург, Люксембург",
+      "Стокгольм, Швеция",
+      "Милан, Италия",
+      "Монако, Монако",
+      "Турин, Италия",
+      "Дюссельдорф, Германия",
+      "Вадуц, Лихтенштейн",
+      "Валлетта, Мальта",
+      "Мюнхен, Германия",
+      "Ватикан, Папский Престол",
+      "Венеция, Италия",
+      "Неаполь, Италия",
+      "Вена, Австрия",
+      "Франкфурт-на-Майне, Германия",
+      "Женева, Швейцария",
+      "Гибралтар, Гибралтар - Великобритания",
+      "Гамбург, Германия",
+      "Осло, Норвегия",
+      "Цюрих, Швейцария"
+    ],
+    "abbr": "WEDT",
+    "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "isdst": true,
+    "offset": 2,
+    "value": "W. Europe Standard Time",
+    "utc": [
+      "Arctic/Longyearbyen",
+      "Europe/Amsterdam",
+      "Europe/Andorra",
+      "Europe/Berlin",
+      "Europe/Busingen",
+      "Europe/Gibraltar",
+      "Europe/Luxembourg",
+      "Europe/Malta",
+      "Europe/Monaco",
+      "Europe/Oslo",
+      "Europe/Rome",
+      "Europe/San_Marino",
+      "Europe/Stockholm",
+      "Europe/Vaduz",
+      "Europe/Vatican",
+      "Europe/Vienna",
+      "Europe/Zurich"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Подгорица, Черногория",
+      "Прага, Чехия",
+      "Приштина, Сербия",
+      "Белград, Сербия",
+      "Братислава, Словакия",
+      "Будапешт, Венгрия",
+      "Любляна, Словения",
+      "Тирана, Албания"
+    ],
+    "abbr": "CEDT",
+    "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "isdst": true,
+    "offset": 2,
+    "value": "Central Europe Standard Time",
+    "utc": [
+      "Europe/Belgrade",
+      "Europe/Bratislava",
+      "Europe/Budapest",
+      "Europe/Ljubljana",
+      "Europe/Podgorica",
+      "Europe/Prague",
+      "Europe/Tirane"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Пальма-де-Мальорка, Испания",
+      "Париж, Франция",
+      "Барселона, Испания",
+      "Бастия, Франция",
+      "Ла-Корунья, Испания",
+      "Брюссель, Бельгия",
+      "Мадрид, Испания",
+      "Копенгаген, Дания",
+      "Кордоба, Испания",
+      "Ницца, Франция"
+    ],
+    "abbr": "RDT",
+    "text": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+    "isdst": true,
+    "offset": 2,
+    "value": "Romance Standard Time",
+    "utc": [
+      "Africa/Ceuta",
+      "Europe/Brussels",
+      "Europe/Copenhagen",
+      "Europe/Madrid",
+      "Europe/Paris"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Познань, Польша",
+      "Краков, Польша",
+      "Сараево, Босния и Герцеговина",
+      "Лодзь, Польша",
+      "Скопье, Македония",
+      "Щецин, Польша",
+      "Варшава, Польша",
+      "Гданьск, Польша",
+      "Вроцлав, Польша",
+      "Загреб, Хорватия"
+    ],
+    "abbr": "CEDT",
+    "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+    "isdst": true,
+    "offset": 2,
+    "value": "Central European Standard Time",
+    "utc": [
+      "Europe/Sarajevo",
+      "Europe/Skopje",
+      "Europe/Warsaw",
+      "Europe/Zagreb"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Абуджа, Нигерия",
+      "Алжир, Алжир",
+      "Порто-Ново, Бенин",
+      "Кано, Нигерия",
+      "Банги, Центрально-Африканская Республика",
+      "Киншаса, Демократическая Республика Конго",
+      "Лагос, Нигерия",
+      "Браззавиль, Конго",
+      "Либревиль, Габон",
+      "Луанда, Ангола",
+      "Малабо, Екваториальная Гвинея",
+      "Тунис, Тунис",
+      "Нджамена, Чад",
+      "Ниамей, Нигер",
+      "Яунде, Камерун"
+    ],
+    "abbr": "WCAST",
+    "text": "(UTC+01:00) West Central Africa",
+    "isdst": false,
+    "offset": 1,
+    "value": "W. Central Africa Standard Time",
+    "utc": [
+      "Africa/Algiers",
+      "Africa/Bangui",
+      "Africa/Brazzaville",
+      "Africa/Douala",
+      "Africa/Kinshasa",
+      "Africa/Lagos",
+      "Africa/Libreville",
+      "Africa/Luanda",
+      "Africa/Malabo",
+      "Africa/Ndjamena",
+      "Africa/Niamey",
+      "Africa/Porto-Novo",
+      "Africa/Tunis",
+      "Etc/GMT-1"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Виндхук, Намибия"
+    ],
+    "abbr": "NST",
+    "text": "(UTC+01:00) Windhoek",
+    "isdst": false,
+    "offset": 1,
+    "value": "Namibia Standard Time",
+    "utc": [
+      "Africa/Windhoek"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Афины, Греция",
+      "Кишинев, Молдова",
+      "Бухарест, Румыния",
+      "Никосия, Кипр"
+    ],
+    "abbr": "GDT",
+    "text": "(UTC+02:00) Athens, Bucharest",
+    "isdst": true,
+    "offset": 3,
+    "value": "GTB Standard Time",
+    "utc": [
+      "Asia/Nicosia",
+      "Europe/Athens",
+      "Europe/Bucharest",
+      "Europe/Chisinau"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Бейрут, Ливан"
+    ],
+    "abbr": "MEDT",
+    "text": "(UTC+02:00) Beirut",
+    "isdst": true,
+    "offset": 3,
+    "value": "Middle East Standard Time",
+    "utc": [
+      "Asia/Beirut"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Гиза, Египет",
+      "Александрия, Египет",
+      "Каир, Египет"
+    ],
+    "abbr": "EST",
+    "text": "(UTC+02:00) Cairo",
+    "isdst": false,
+    "offset": 2,
+    "value": "Egypt Standard Time",
+    "utc": [
+      "Africa/Cairo"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Дамаск, Сирия"
+    ],
+    "abbr": "SDT",
+    "text": "(UTC+02:00) Damascus",
+    "isdst": true,
+    "offset": 3,
+    "value": "Syria Standard Time",
+    "utc": [
+      "Asia/Damascus"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Хельсинки, Финляндия",
+      "Афины, Греция",
+      "Каунас, Литва",
+      "Рига, Латвия",
+      "Кишинев, Молдова",
+      "Киев, Украина",
+      "Бухарест, Румыния",
+      "София, Болгария",
+      "Таллин, Естония",
+      "Вильнюс, Литва",
+      "Никосия, Кипр",
+      "Одесса, Украина"
+    ],
+    "abbr": "EEDT",
+    "text": "(UTC+02:00) E. Europe",
+    "isdst": true,
+    "offset": 3,
+    "value": "E. Europe Standard Time",
+    "utc": [
+      "Asia/Nicosia",
+      "Europe/Athens",
+      "Europe/Bucharest",
+      "Europe/Chisinau",
+      "Europe/Helsinki",
+      "Europe/Kiev",
+      "Europe/Mariehamn",
+      "Europe/Nicosia",
+      "Europe/Riga",
+      "Europe/Sofia",
+      "Europe/Tallinn",
+      "Europe/Uzhgorod",
+      "Europe/Vilnius",
+      "Europe/Zaporozhye"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Хараре, Зимбабве",
+      "Претория, Южная Африка (Южно-Африканская республика)",
+      "Йоханнесбург, Южная Африка (Южно-Африканская республика)",
+      "Кигали, Руанда",
+      "Лилонгве, Малави",
+      "Бужумбура, Бурунди",
+      "Кейптаун, Южная Африка (Южно-Африканская республика)",
+      "Лубумбаши, Демократическая Республика Конго",
+      "Лусака, Замбия",
+      "Мапуту, Мозамбик",
+      "Масеру, Лесото",
+      "Мбабане, Свазиленд",
+      "Габороне, Ботсвана"
+    ],
+    "abbr": "SAST",
+    "text": "(UTC+02:00) Harare, Pretoria",
+    "isdst": false,
+    "offset": 2,
+    "value": "South Africa Standard Time",
+    "utc": [
+      "Africa/Blantyre",
+      "Africa/Bujumbura",
+      "Africa/Gaborone",
+      "Africa/Harare",
+      "Africa/Johannesburg",
+      "Africa/Kigali",
+      "Africa/Lubumbashi",
+      "Africa/Lusaka",
+      "Africa/Maputo",
+      "Africa/Maseru",
+      "Africa/Mbabane",
+      "Etc/GMT-2"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Хельсинки, Финляндия",
+      "Каунас, Литва",
+      "Рига, Латвия",
+      "Киев, Украина",
+      "София, Болгария",
+      "Таллин, Естония",
+      "Вильнюс, Литва",
+      "Одесса, Украина"
+    ],
+    "abbr": "FDT",
+    "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "isdst": true,
+    "offset": 3,
+    "value": "FLE Standard Time",
+    "utc": [
+      "Europe/Helsinki",
+      "Europe/Kiev",
+      "Europe/Mariehamn",
+      "Europe/Riga",
+      "Europe/Sofia",
+      "Europe/Tallinn",
+      "Europe/Uzhgorod",
+      "Europe/Vilnius",
+      "Europe/Zaporozhye"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Стамбул, Турция",
+      "Измир, Турция",
+      "Анкара, Турция"
+    ],
+    "abbr": "TDT",
+    "text": "(UTC+03:00) Istanbul",
+    "isdst": false,
+    "offset": 3,
+    "value": "Turkey Standard Time",
+    "utc": [
+      "Europe/Istanbul"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Иерусалим, Израиль",
+      "Тель-Авив, Израиль"
+    ],
+    "abbr": "JDT",
+    "text": "(UTC+02:00) Jerusalem",
+    "isdst": true,
+    "offset": 3,
+    "value": "Israel Standard Time",
+    "utc": [
+      "Asia/Jerusalem"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Триполи, Ливия"
+    ],
+    "abbr": "LST",
+    "text": "(UTC+02:00) Tripoli",
+    "isdst": false,
+    "offset": 2,
+    "value": "Libya Standard Time",
+    "utc": [
+      "Africa/Tripoli"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Амман, Иордания"
+    ],
+    "abbr": "JST",
+    "text": "(UTC+03:00) Amman",
+    "isdst": false,
+    "offset": 3,
+    "value": "Jordan Standard Time",
+    "utc": [
+      "Asia/Amman"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Багдад, Ирак",
+      "Басра, Ирак"
+    ],
+    "abbr": "AST",
+    "text": "(UTC+03:00) Baghdad",
+    "isdst": false,
+    "offset": 3,
+    "value": "Arabic Standard Time",
+    "utc": [
+      "Asia/Baghdad"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Калининград, Россия",
+      "Минск, Беларусь"
+    ],
+    "abbr": "KST",
+    "text": "(UTC+03:00) Kaliningrad, Minsk",
+    "isdst": false,
+    "offset": 3,
+    "value": "Kaliningrad Standard Time",
+    "utc": [
+      "Europe/Kaliningrad",
+      "Europe/Minsk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Аден, Йемен (Йеменская Арабская Республика)",
+      "Джидда, Саудовская Аравия",
+      "Эр-Рияд, Саудовская Аравия",
+      "Кувейт, Кувейт",
+      "Сана, Йемен (Йеменская Арабская Республика)",
+      "Мекка, Саудовская Аравия",
+      "Манама, Бахрейн",
+      "Доха, Катар"
+    ],
+    "abbr": "AST",
+    "text": "(UTC+03:00) Kuwait, Riyadh",
+    "isdst": false,
+    "offset": 3,
+    "value": "Arab Standard Time",
+    "utc": [
+      "Asia/Aden",
+      "Asia/Bahrain",
+      "Asia/Kuwait",
+      "Asia/Qatar",
+      "Asia/Riyadh"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Аддис-Абеба, Ефиопия",
+      "Антананариву, Мадагаскар",
+      "Кампала, Уганда",
+      "Хартум, Судан",
+      "Мамудзу, Майотта",
+      "Дар-эс-Салам, Танзания",
+      "Джибути, Джибутти",
+      "Додома, Танзания",
+      "Могадишу, Сомали",
+      "Морони, Коморские острова",
+      "Найроби, Кения",
+      "Джуба, Южный Судан"
+    ],
+    "abbr": "EAST",
+    "text": "(UTC+03:00) Nairobi",
+    "isdst": false,
+    "offset": 3,
+    "value": "E. Africa Standard Time",
+    "utc": [
+      "Africa/Addis_Ababa",
+      "Africa/Asmera",
+      "Africa/Dar_es_Salaam",
+      "Africa/Djibouti",
+      "Africa/Juba",
+      "Africa/Kampala",
+      "Africa/Khartoum",
+      "Africa/Mogadishu",
+      "Africa/Nairobi",
+      "Antarctica/Syowa",
+      "Etc/GMT-3",
+      "Indian/Antananarivo",
+      "Indian/Comoro",
+      "Indian/Mayotte"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Казань, Россия",
+      "Санкт-Петербург, Россия",
+      "Москва, Россия",
+      "Мурманск, Россия",
+      "Новгород, Россия"
+    ],
+    "abbr": "MSK",
+    "text": "(UTC+03:00) Moscow, St. Petersburg, Volgograd",
+    "isdst": false,
+    "offset": 3,
+    "value": "Moscow Standard Time",
+    "utc": [
+      "Europe/Kirov",
+      "Europe/Moscow",
+      "Europe/Simferopol",
+      "Europe/Volgograd"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Самара, Россия"
+    ],
+    "abbr": "SAMT",
+    "text": "(UTC+04:00) Samara, Ulyanovsk, Saratov",
+    "isdst": false,
+    "offset": 4,
+    "value": "Samara Time",
+    "utc": [
+      "Europe/Astrakhan",
+      "Europe/Samara",
+      "Europe/Ulyanovsk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Тегеран, Иран",
+      "Исфахан, Иран"
+    ],
+    "abbr": "IDT",
+    "text": "(UTC+03:30) Tehran",
+    "isdst": true,
+    "offset": 4.5,
+    "value": "Iran Standard Time",
+    "utc": [
+      "Asia/Tehran"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Абу-Даби, Объединенные Арабские Эмираты",
+      "Дубай, Объединенные Арабские Эмираты",
+      "Маскат, Оман"
+    ],
+    "abbr": "AST",
+    "text": "(UTC+04:00) Abu Dhabi, Muscat",
+    "isdst": false,
+    "offset": 4,
+    "value": "Arabian Standard Time",
+    "utc": [
+      "Asia/Dubai",
+      "Asia/Muscat",
+      "Etc/GMT-4"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Баку, Азербайджан"
+    ],
+    "abbr": "ADT",
+    "text": "(UTC+04:00) Baku",
+    "isdst": true,
+    "offset": 5,
+    "value": "Azerbaijan Standard Time",
+    "utc": [
+      "Asia/Baku"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Порт-Луи, Маврикий",
+      "Сен-Дени, Реюньон",
+      "Виктория (Сейшели), Сейшельские острова"
+    ],
+    "abbr": "MST",
+    "text": "(UTC+04:00) Port Louis",
+    "isdst": false,
+    "offset": 4,
+    "value": "Mauritius Standard Time",
+    "utc": [
+      "Indian/Mahe",
+      "Indian/Mauritius",
+      "Indian/Reunion"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Тбилиси, Грузия"
+    ],
+    "abbr": "GST",
+    "text": "(UTC+04:00) Tbilisi",
+    "isdst": false,
+    "offset": 4,
+    "value": "Georgian Standard Time",
+    "utc": [
+      "Asia/Tbilisi"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Ереван, Армения"
+    ],
+    "abbr": "CST",
+    "text": "(UTC+04:00) Yerevan",
+    "isdst": false,
+    "offset": 4,
+    "value": "Caucasus Standard Time",
+    "utc": [
+      "Asia/Yerevan"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Кабул, Афганистан"
+    ],
+    "abbr": "AST",
+    "text": "(UTC+04:30) Kabul",
+    "isdst": false,
+    "offset": 4.5,
+    "value": "Afghanistan Standard Time",
+    "utc": [
+      "Asia/Kabul"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Порт-о-Франс, Французские Южные и Антарктические территории",
+      "Актау, Казахстан",
+      "Актюбинск, Казахстан",
+      "Ашхабад, Туркменистан",
+      "Мале, Мальдивы",
+      "Ташкент, Узбекистан",
+      "Душанбе, Таджикистан"
+    ],
+    "abbr": "WAST",
+    "text": "(UTC+05:00) Ashgabat, Tashkent",
+    "isdst": false,
+    "offset": 5,
+    "value": "West Asia Standard Time",
+    "utc": [
+      "Antarctica/Mawson",
+      "Asia/Aqtau",
+      "Asia/Aqtobe",
+      "Asia/Ashgabat",
+      "Asia/Dushanbe",
+      "Asia/Oral",
+      "Asia/Samarkand",
+      "Asia/Tashkent",
+      "Etc/GMT-5",
+      "Indian/Kerguelen",
+      "Indian/Maldives"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Пермь, Россия",
+      "Челябинск, Россия",
+      "Уфа, Россия",
+      "Екатеринбург, Россия"
+    ],
+    "abbr": "YEKT",
+    "text": "(UTC+05:00) Yekaterinburg",
+    "isdst": false,
+    "offset": 5,
+    "value": "Yekaterinburg Time",
+    "utc": [
+      "Asia/Yekaterinburg"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Исламабад, Пакистан",
+      "Карачи, Пакистан",
+      "Лахор, Пакистан",
+      "Фейсалабад, Пакистан"
+    ],
+    "abbr": "PKT",
+    "text": "(UTC+05:00) Islamabad, Karachi",
+    "isdst": false,
+    "offset": 5,
+    "value": "Pakistan Standard Time",
+    "utc": [
+      "Asia/Karachi"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Патна, Индия",
+      "Агра, Индия",
+      "Ахмадабад, Индия",
+      "Хайдарабад, Индия",
+      "Индоре, Индия",
+      "Джайпур, Индия",
+      "Пуна, Индия",
+      "Канпур, Индия",
+      "Бангалор, Индия",
+      "Колката, Индия",
+      "Бхубанешвар, Индия",
+      "Лакхнау, Индия",
+      "Лудхияна, Индия",
+      "Мадурай, Индия",
+      "Сурат, Индия",
+      "Ченнаи, Индия",
+      "Дели, Индия",
+      "Вадодара, Индия",
+      "Мумбаи, Индия",
+      "Варанаси, Индия",
+      "Нагпур, Индия",
+      "Нью-Дели, Индия",
+      "Вишакхапатнам, Индия"
+    ],
+    "abbr": "IST",
+    "text": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+    "isdst": false,
+    "offset": 5.5,
+    "value": "India Standard Time",
+    "utc": [
+      "Asia/Kolkata"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Коломбо, Шри-Ланка"
+    ],
+    "abbr": "SLST",
+    "text": "(UTC+05:30) Sri Jayawardenepura",
+    "isdst": false,
+    "offset": 5.5,
+    "value": "Sri Lanka Standard Time",
+    "utc": [
+      "Asia/Colombo"
+    ]
+  },
+  {
+    "utc_ru": [],
+    "abbr": "NST",
+    "text": "(UTC+05:45) Kathmandu",
+    "isdst": false,
+    "offset": 5.75,
+    "value": "Nepal Standard Time",
+    "utc": [
+      "Asia/Katmandu"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Алма-Ата, Казахстан",
+      "Астана, Казахстан",
+      "Бишкек, Кыргызстан"
+    ],
+    "abbr": "CAST",
+    "text": "(UTC+06:00) Astana",
+    "isdst": false,
+    "offset": 6,
+    "value": "Central Asia Standard Time",
+    "utc": [
+      "Antarctica/Vostok",
+      "Asia/Almaty",
+      "Asia/Bishkek",
+      "Asia/Qyzylorda",
+      "Asia/Urumqi",
+      "Etc/GMT-6",
+      "Indian/Chagos"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Кхулна, Бангладеш",
+      "Читтагонг, Бангладеш",
+      "Тхимпху, Бутан",
+      "Дакка, Бангладеш"
+    ],
+    "abbr": "BST",
+    "text": "(UTC+06:00) Dhaka",
+    "isdst": false,
+    "offset": 6,
+    "value": "Bangladesh Standard Time",
+    "utc": [
+      "Asia/Dhaka",
+      "Asia/Thimphu"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Рангун, Мянма"
+    ],
+    "abbr": "MST",
+    "text": "(UTC+06:30) Yangon (Rangoon)",
+    "isdst": false,
+    "offset": 6.5,
+    "value": "Myanmar Standard Time",
+    "utc": [
+      "Asia/Rangoon",
+      "Indian/Cocos"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Палембанг, Индонезия",
+      "Кобдо, Монголия",
+      "Пномпень, Камбоджа",
+      "Джакарта, Индонезия",
+      "Кхон Кен, Таиланд",
+      "Бандунг, Индонезия",
+      "Бангкок, Таиланд",
+      "Семаранг, Индонезия",
+      "Сурабая, Индонезия",
+      "Сухарта, Индонезия",
+      "Маланг, Индонезия",
+      "Медан, Индонезия",
+      "Флайинг-Фиш-Коув, Австралия",
+      "Вьентьян, Лаос"
+    ],
+    "abbr": "SAST",
+    "text": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+    "isdst": false,
+    "offset": 7,
+    "value": "SE Asia Standard Time",
+    "utc": [
+      "Antarctica/Davis",
+      "Asia/Bangkok",
+      "Asia/Hovd",
+      "Asia/Jakarta",
+      "Asia/Phnom_Penh",
+      "Asia/Pontianak",
+      "Asia/Saigon",
+      "Asia/Vientiane",
+      "Etc/GMT-7",
+      "Indian/Christmas"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Новосибирск, Россия",
+      "Омск, Россия"
+    ],
+    "abbr": "NCAST",
+    "text": "(UTC+07:00) Novosibirsk",
+    "isdst": false,
+    "offset": 7,
+    "value": "N. Central Asia Standard Time",
+    "utc": [
+      "Asia/Novokuznetsk",
+      "Asia/Novosibirsk",
+      "Asia/Omsk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Харбин, Китай",
+      "Гонконг, Китай",
+      "Аншан, Китай",
+      "Цзилинь, Китай",
+      "Цзинан, Китай",
+      "Цзиньчжоу, Китай",
+      "Цицикар, Китай",
+      "Баотоу, Китай",
+      "Пекин, Китай",
+      "Коулун, Китай",
+      "Куньмин, Китай",
+      "Ланьчжоу, Китай",
+      "Лхаса, Китай",
+      "Шанхай, Китай",
+      "Шитячжуан, Китай",
+      "Сиан, Китай",
+      "Гуанчжоу, Китай",
+      "Далянь, Китай",
+      "Лоян, Китай",
+      "Чанчунь, Китай",
+      "Чанша, Китай",
+      "Макао, Китай",
+      "Чэнду, Китай",
+      "Чунцин, Китай",
+      "Тайюань, Китай",
+      "Таншань, Китай",
+      "Тяньцзинь, Китай",
+      "Циндао, Китай",
+      "Фучжоу, Китай",
+      "Наньчан, Китай",
+      "Фушунь, Китай",
+      "Ухань, Китай",
+      "Гуйян, Китай",
+      "Чженчжоу, Китай",
+      "Ханчжоу, Китай",
+      "Цзыбо, Китай"
+    ],
+    "abbr": "CST",
+    "text": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+    "isdst": false,
+    "offset": 8,
+    "value": "China Standard Time",
+    "utc": [
+      "Asia/Hong_Kong",
+      "Asia/Macau",
+      "Asia/Shanghai"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Красноярск, Россия"
+    ],
+    "abbr": "NAST",
+    "text": "(UTC+08:00) Krasnoyarsk",
+    "isdst": false,
+    "offset": 8,
+    "value": "North Asia Standard Time",
+    "utc": [
+      "Asia/Krasnoyarsk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Раба, Индонезия",
+      "Баликпапан, Индонезия",
+      "Бандар-Сери-Бегаван, Бруней",
+      "Куала-Лумпур, Малайзия",
+      "Купанг, Индонезия",
+      "Сингапур, Сингапур",
+      "Сингараджа, Индонезия",
+      "Манадо, Индонезия",
+      "Манила, Филиппины",
+      "Матарам, Индонезия",
+      "Денпасар, Индонезия",
+      "Энде, Индонезия"
+    ],
+    "abbr": "MPST",
+    "text": "(UTC+08:00) Kuala Lumpur, Singapore",
+    "isdst": false,
+    "offset": 8,
+    "value": "Singapore Standard Time",
+    "utc": [
+      "Asia/Brunei",
+      "Asia/Kuala_Lumpur",
+      "Asia/Kuching",
+      "Asia/Makassar",
+      "Asia/Manila",
+      "Asia/Singapore",
+      "Etc/GMT-8"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Перт, Австралия"
+    ],
+    "abbr": "WAST",
+    "text": "(UTC+08:00) Perth",
+    "isdst": false,
+    "offset": 8,
+    "value": "W. Australia Standard Time",
+    "utc": [
+      "Antarctica/Casey",
+      "Australia/Perth"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Гаосюн, Тайвань",
+      "Тайбэй, Тайвань"
+    ],
+    "abbr": "TST",
+    "text": "(UTC+08:00) Taipei",
+    "isdst": false,
+    "offset": 8,
+    "value": "Taipei Standard Time",
+    "utc": [
+      "Asia/Taipei"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Чойбалсан, Монголия",
+      "Улан-Батор, Монголия"
+    ],
+    "abbr": "UST",
+    "text": "(UTC+08:00) Ulaanbaatar",
+    "isdst": false,
+    "offset": 8,
+    "value": "Ulaanbaatar Standard Time",
+    "utc": [
+      "Asia/Choibalsan",
+      "Asia/Ulaanbaatar"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Иркутск, Россия"
+    ],
+    "abbr": "NAEST",
+    "text": "(UTC+09:00) Irkutsk",
+    "isdst": false,
+    "offset": 9,
+    "value": "North Asia East Standard Time",
+    "utc": [
+      "Asia/Irkutsk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Хиросима, Япония",
+      "Амбон, Индонезия",
+      "Джаяпура, Индонезия",
+      "Кавасаки, Япония",
+      "Китакюсю, Япония",
+      "Кобе, Япония",
+      "Корор, острова Палау",
+      "Киото, Япония",
+      "Саппоро, Япония",
+      "Сендай, Япония",
+      "Тернате, Индонезия",
+      "Токио, Япония",
+      "Дили, Восточный Тимор",
+      "Нагоя, Япония",
+      "Фукуока, Япония",
+      "Окаяма, Япония",
+      "Иокогама, Япония",
+      "Осака, Япония"
+    ],
+    "abbr": "JST",
+    "text": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+    "isdst": false,
+    "offset": 9,
+    "value": "Japan Standard Time",
+    "utc": [
+      "Asia/Dili",
+      "Asia/Jayapura",
+      "Asia/Tokyo",
+      "Etc/GMT-9",
+      "Pacific/Palau"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Инчхон, Южная Корея",
+      "Бусан, Южная Корея",
+      "Пхеньян, Северная Корея",
+      "Сеул, Южная Корея",
+      "Тэгу, Южная Корея"
+    ],
+    "abbr": "KST",
+    "text": "(UTC+09:00) Seoul",
+    "isdst": false,
+    "offset": 9,
+    "value": "Korea Standard Time",
+    "utc": [
+      "Asia/Pyongyang",
+      "Asia/Seoul"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Аделаида, Австралия"
+    ],
+    "abbr": "CAST",
+    "text": "(UTC+09:30) Adelaide",
+    "isdst": false,
+    "offset": 9.5,
+    "value": "Cen. Australia Standard Time",
+    "utc": [
+      "Australia/Adelaide",
+      "Australia/Broken_Hill"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Дарвин, Австралия"
+    ],
+    "abbr": "ACST",
+    "text": "(UTC+09:30) Darwin",
+    "isdst": false,
+    "offset": 9.5,
+    "value": "AUS Central Standard Time",
+    "utc": [
+      "Australia/Darwin"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Брисбен, Австралия"
+    ],
+    "abbr": "EAST",
+    "text": "(UTC+10:00) Brisbane",
+    "isdst": false,
+    "offset": 10,
+    "value": "E. Australia Standard Time",
+    "utc": [
+      "Australia/Brisbane",
+      "Australia/Lindeman"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Канберра, Австралия",
+      "Сидней, Австралия",
+      "Мельбурн, Австралия"
+    ],
+    "abbr": "AEST",
+    "text": "(UTC+10:00) Canberra, Melbourne, Sydney",
+    "isdst": false,
+    "offset": 10,
+    "value": "AUS Eastern Standard Time",
+    "utc": [
+      "Australia/Melbourne",
+      "Australia/Sydney"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Порт-Морсби, Папуа-Новая Гвинея",
+      "Сайпан, Содружество Северных Марианских островов",
+      "Гуам, Соединенные Штаты Америки (США)"
+    ],
+    "abbr": "WPST",
+    "text": "(UTC+10:00) Guam, Port Moresby",
+    "isdst": false,
+    "offset": 10,
+    "value": "West Pacific Standard Time",
+    "utc": [
+      "Antarctica/DumontDUrville",
+      "Etc/GMT-10",
+      "Pacific/Guam",
+      "Pacific/Port_Moresby",
+      "Pacific/Saipan",
+      "Pacific/Truk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Хобарт, Австралия"
+    ],
+    "abbr": "TST",
+    "text": "(UTC+10:00) Hobart",
+    "isdst": false,
+    "offset": 10,
+    "value": "Tasmania Standard Time",
+    "utc": [
+      "Australia/Currie",
+      "Australia/Hobart"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Якутск, Россия"
+    ],
+    "abbr": "YST",
+    "text": "(UTC+10:00) Yakutsk",
+    "isdst": false,
+    "offset": 10,
+    "value": "Yakutsk Standard Time",
+    "utc": [
+      "Asia/Chita",
+      "Asia/Khandyga",
+      "Asia/Yakutsk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Хониара, Соломоновы острова",
+      "Порт Вила, Вануату",
+      "Нумеа, Новая Каледония"
+    ],
+    "abbr": "CPST",
+    "text": "(UTC+11:00) Solomon Is., New Caledonia",
+    "isdst": false,
+    "offset": 11,
+    "value": "Central Pacific Standard Time",
+    "utc": [
+      "Antarctica/Macquarie",
+      "Etc/GMT-11",
+      "Pacific/Efate",
+      "Pacific/Guadalcanal",
+      "Pacific/Kosrae",
+      "Pacific/Noumea",
+      "Pacific/Ponape"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Владивосток, Россия"
+    ],
+    "abbr": "VST",
+    "text": "(UTC+11:00) Vladivostok",
+    "isdst": false,
+    "offset": 11,
+    "value": "Vladivostok Standard Time",
+    "utc": [
+      "Asia/Sakhalin",
+      "Asia/Ust-Nera",
+      "Asia/Vladivostok"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Окленд, Новая Зеландия",
+      "Крайстчерч, Новая Зеландия",
+      "Веллингтон, Новая Зеландия"
+    ],
+    "abbr": "NZST",
+    "text": "(UTC+12:00) Auckland, Wellington",
+    "isdst": false,
+    "offset": 12,
+    "value": "New Zealand Standard Time",
+    "utc": [
+      "Antarctica/McMurdo",
+      "Pacific/Auckland"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Маджуро, Маршаловы острова",
+      "Ярен, Науру",
+      "Баірікі, Кирибати",
+      "Фунафути, Тувалу"
+    ],
+    "abbr": "U",
+    "text": "(UTC+12:00) Coordinated Universal Time+12",
+    "isdst": false,
+    "offset": 12,
+    "value": "UTC+12",
+    "utc": [
+      "Etc/GMT-12",
+      "Pacific/Funafuti",
+      "Pacific/Kwajalein",
+      "Pacific/Majuro",
+      "Pacific/Nauru",
+      "Pacific/Tarawa",
+      "Pacific/Wake",
+      "Pacific/Wallis"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Сува, Фиджи"
+    ],
+    "abbr": "FST",
+    "text": "(UTC+12:00) Fiji",
+    "isdst": false,
+    "offset": 12,
+    "value": "Fiji Standard Time",
+    "utc": [
+      "Pacific/Fiji"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Анадырь, Россия",
+      "Петропавловск-Камчатский, Россия"
+    ],
+    "abbr": "MST",
+    "text": "(UTC+12:00) Magadan",
+    "isdst": false,
+    "offset": 12,
+    "value": "Magadan Standard Time",
+    "utc": [
+      "Asia/Anadyr",
+      "Asia/Kamchatka",
+      "Asia/Magadan",
+      "Asia/Srednekolymsk"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Петропавловск-Камчатский, Россия"
+    ],
+    "abbr": "KDT",
+    "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
+    "isdst": true,
+    "offset": 13,
+    "value": "Kamchatka Standard Time",
+    "utc": [
+      "Asia/Kamchatka"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Раваки, Кирибати",
+      "Нукуалофа, Тонга"
+    ],
+    "abbr": "TST",
+    "text": "(UTC+13:00) Nuku'alofa",
+    "isdst": false,
+    "offset": 13,
+    "value": "Tonga Standard Time",
+    "utc": [
+      "Etc/GMT-13",
+      "Pacific/Enderbury",
+      "Pacific/Fakaofo",
+      "Pacific/Tongatapu"
+    ]
+  },
+  {
+    "utc_ru": [
+      "Апиа, Самоа"
+    ],
+    "abbr": "SST",
+    "text": "(UTC+13:00) Samoa",
+    "isdst": false,
+    "offset": 13,
+    "value": "Samoa Standard Time",
+    "utc": [
+      "Pacific/Apia"
+    ]
+  }
+]
